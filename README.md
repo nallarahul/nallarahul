@@ -47,9 +47,8 @@ Currently building **Blippr**, a real-time chatting application.
 
 ## 📈 Visitors
 
-<p align="center">
   ![Visitor Badge](https://img.shields.io/badge/Visitors-%E2%9C%94-green)
-</p>
+
 
 ---
 
