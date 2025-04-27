@@ -3,11 +3,8 @@
 I'm a student at **VIT-AP** passionate about **Data Science** and **Web Development**.  
 Currently building **Blippr**, a real-time chatting application.
 
-<div style="position: relative; display: inline-block; width: 100%;">
-  <p style="position: absolute; top: 0; right: 0; margin: 10px;">
     ![Visitor Badge](https://img.shields.io/badge/Visitors-%E2%9C%94-green)
-  </p>
-</div>
+
 ---
 
 ## 🚀 Tech Stack
