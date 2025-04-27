@@ -48,7 +48,7 @@ Currently building **Blippr**, a real-time chatting application.
 ## 📈 Visitors
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nallarahul.nallarahul" alt="Visitor Badge"/>
+  ![Visitor Badge](https://img.shields.io/badge/Visitors-%E2%9C%94-green)
 </p>
 
 ---
