@@ -37,6 +37,12 @@ Currently building **Blippr**, a real-time chatting application.
 
 ---
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nallarahul?theme=light&font=Roboto&ext=activity)
+
+---
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rahul-nalla/)
 - [Portfolio Website](https://nallarahul.vercel.app/)
