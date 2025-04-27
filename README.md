@@ -39,7 +39,7 @@ Currently building **Blippr**, a real-time chatting application.
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nallarahul?theme=light&font=Roboto)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nallarahul?theme=dark&font=Roboto)
 
 ---
 
