@@ -1,4 +1,4 @@
-# Hi, I'm Nalla Rahul 👋
+# Hi, I'm Nalla Rahul 
 
 I'm a student at **VIT-AP** passionate about **Data Science** and **Web Development**.  
 Currently building **Blippr**, a real-time chatting application.
@@ -7,7 +7,7 @@ Currently building **Blippr**, a real-time chatting application.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@ Currently building **Blippr**, a real-time chatting application.
 
 ---
 
-## 📈 LeetCode Stats
+##  LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nallarahul?theme=light&font=Roboto" alt="LeetCode Stats" />
@@ -39,7 +39,7 @@ Currently building **Blippr**, a real-time chatting application.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nallarahul&show_icons=true&theme=tokyonight" width="450"/>
@@ -47,17 +47,17 @@ Currently building **Blippr**, a real-time chatting application.
 
 ---
 
-## ✨ About Me
+##  About Me
 
-- 🔥 Passionate about building impactful projects
-- 🎹 Play the keyboard and enjoy fictional novels
-- 🛠️ Constantly learning and growing
+-  Passionate about building impactful projects
+-  Play the keyboard and enjoy fictional novels
+-  Constantly learning and growing
 
 > **"Strive not to be a success, but rather to be of value." — Albert Einstein**
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/rahul-nalla/)
 - [Portfolio Website](https://nallarahul.vercel.app/)
