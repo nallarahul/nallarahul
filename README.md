@@ -1,7 +1,6 @@
 # Hi, I'm Nalla Rahul 
 
 I'm a student at **VIT-AP** passionate about **Data Science** and **Web Development**.  
-Currently building **Blippr**, a real-time chatting application.
 
 ---
 
